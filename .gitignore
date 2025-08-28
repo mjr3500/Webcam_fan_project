@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.env.*
+
+# PyCharm
+.idea/
+*.iml
+
+# Arduino
+*.hex
+*.elf
+
+# OS
+Thumbs.db
+.DS_Store
+
+# logs
+*.log
